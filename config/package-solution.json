@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "spfx-hero-client-side-solution",
+    "id": "434edd75-9583-4fb9-809c-cc7ce7991144",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-hero.sppkg"
+  }
+}
